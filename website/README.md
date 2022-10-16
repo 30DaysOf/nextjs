@@ -1,41 +1,9 @@
-# #30Days Template Website
+# Learn Next.js in #30Days 
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[![Deploy to GitHub Pages](https://github.com/30DaysOf/nextjs/actions/workflows/deploy.yml/badge.svg)](https://github.com/30DaysOf/nextjs/actions/workflows/deploy.yml)
 
-### Installation
+[![pages-build-deployment](https://github.com/30DaysOf/nextjs/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/30DaysOf/nextjs/actions/workflows/pages/pages-build-deployment)
 
-```
-$ yarn
-```
+---
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator and instantiated from the [30DaysOf/template](https://github.com/30DaysOf/template) template.

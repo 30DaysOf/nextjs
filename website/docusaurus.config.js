@@ -92,6 +92,7 @@ const config = {
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
+          href: '/landing',
           target: '_self',
           width: 32,
           height: 32,
@@ -102,26 +103,20 @@ const config = {
           {
             type: 'doc',
             position: 'left',
-            docId: 'week/02',
-            label: 'Week 1',
+            docId: 'intro',
+            label: 'Roadmap',
           },
           {
             type: 'doc',
             position: 'left',
-            docId: 'week/09',
-            label: 'Week 2',
+            docId: 'til/intro',
+            label: 'Today I Learned',
           },
           {
             type: 'doc',
             position: 'left',
-            docId: 'week/16',
-            label: 'Week 3',
-          },
-          {
-            type: 'doc',
-            position: 'left',
-            docId: 'week/23',
-            label: 'Week 4',
+            docId: 'resources',
+            label: 'Resources',
           },
           {
             to: 'landing',

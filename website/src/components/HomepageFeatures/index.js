@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Plan',
-    Svg: require('@site/static/img/landing-plan.svg').default,
+    title: 'Learn React.js',
+    Svg: require('@site/static/img/logo-react.svg').default,
     description: (
       <>
-        Define your 30-day roadmap with objectives structured in 4 weeks
+        React.js quickstart and just sufficient coverage of core concepts for Next.js
       </>
     ),
   },
   {
-    title: 'Execute',
-    Svg: require('@site/static/img/landing-learn.svg').default,
+    title: 'Learn Next.js',
+    Svg: require('@site/static/img/logo-next.svg').default,
     description: (
       <>
-        Document your progress daily - what worked, what didn't
+        Next.js quickstart and deep dives into core concepts (hands-on examples)
       </>
     ),
   },
   {
-    title: 'Share',
-    Svg: require('@site/static/img/landing-complete.svg').default,
+    title: 'Advanced Projects',
+    Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Summarize your learnings and share insights to help others.
+        Explore advanced projects using templates, services, e2e tests.
       </>
     ),
   },
