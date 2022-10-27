@@ -109,7 +109,7 @@ const config = {
           {
             type: 'doc',
             position: 'left',
-            docId: 'til/intro',
+            docId: 'til/001',
             label: 'Today I Learned',
           },
           {

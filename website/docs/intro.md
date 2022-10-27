@@ -8,8 +8,8 @@ I kickstarted this learning journey on `October 16, 2022`!
 ## Objectives
 
  - **Refresh React.js knowledge** - v18 usage, design patterns, popular integrations.
- - **Acquire Next.js experience** - learn core features and value proposition of server-side framework
- - **Build/Deploy Full Stack Apps** - involving one or more of the following service integrations:
+ - **Build Next.js experience** - explore core features & tools, including [Next 13](https://nextjs.org/blog/next-13)
+ - **Build/Deploy Full Stack Apps** - involving one or more service integrations:
     - Strapi - as CMS
     - Stripe - as Payment Provider
     - Material UI - as Components library
